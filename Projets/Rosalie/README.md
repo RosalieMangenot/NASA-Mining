@@ -1,0 +1,2 @@
+Explore Mars with Curiosity est une application pour faire découvrir à des enfants les photographies du Rover Curiosity pendant son séjour sur Mars. En utilisant l'API de la nasa, l'utilisateur va ainsi pouvoir choisir les photos d'une caméra et d'une date marsienne. L'univers graphique est enfantin et dynamique pour faire découvrir les photographies à travers une aventure amusante. 
+Plusieurs informations sont aussi disponibles pour faire découvrir plus précisément la mission à l'utilisateur. 
